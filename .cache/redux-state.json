@@ -1,23 +1,13 @@
 {
   "nodes": {
     "SitePage /dev-404-page/": {
-      "layout": null,
-      "jsonName": "dev-404-page.json",
-      "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
-      "component": "/Users/davidphillips/Developer/davidphillipsdev.com/.cache/dev-404-page.js",
-      "componentChunkName": "component---cache-dev-404-page-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin dev-404-page",
-      "pluginCreatorId": "Plugin dev-404-page",
-      "componentPath": "/Users/davidphillips/Developer/davidphillipsdev.com/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "0da3cc47ed416f6e4f8ce6b71f24707d",
-        "description": "Plugin dev-404-page",
+        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
         "owner": "internal-data-bridge"
       }
     },
@@ -329,38 +319,15 @@
     },
     "Site": {
       "siteMetadata": {},
-      "port": "8000",
-      "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-09-07T13:44:31.953Z",
+      "buildTime": "2018-09-07T14:09:31.775Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "bcf1bd8478c2c7ebe88d8acce28bffb4",
+        "contentDigest": "205d526c3cacbe00d47dc829895187b4",
         "type": "Site",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /gatsby-config/": {
-      "layout": null,
-      "jsonName": "gatsby-config.json",
-      "internalComponentName": "ComponentGatsbyConfig",
-      "path": "/gatsby-config/",
-      "component": "/Users/davidphillips/Developer/davidphillipsdev.com/src/pages/gatsby-config.js",
-      "componentChunkName": "component---src-pages-gatsby-config-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
-      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
-      "componentPath": "/Users/davidphillips/Developer/davidphillipsdev.com/src/pages/gatsby-config.js",
-      "id": "SitePage /gatsby-config/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "3e73f2944fdc2a3a747300f8332112a5",
-        "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
     },
@@ -380,7 +347,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "132f185c32006220bdaa3e427733ccf8",
+        "contentDigest": "3074071fb1df59a892b17ef4b229f24f",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
